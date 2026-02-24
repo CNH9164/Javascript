@@ -22,7 +22,7 @@ let age = 19
 let isLoggedIn = true
 
 //number = > 2 to power 53
-//bigint 
+//bigint => this is used for large numbers
 //string => ""
 //boolean => true or false
 //null => standalone value/it is used to represent as zero here we can define it by ourselves
